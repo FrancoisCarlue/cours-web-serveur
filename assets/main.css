@@ -1,0 +1,13 @@
+html, body {
+    margin:0;
+    padding:0;
+
+    background: skyblue;
+    color: #FFFFFF;
+    font-size: 2em;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
